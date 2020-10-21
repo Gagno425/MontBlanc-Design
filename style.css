@@ -1,0 +1,231 @@
+body {
+    background-color: black;
+    padding: 1.5rem 1.5rem 1.5rem 1.5rem;
+}
+
+
+.Grid {
+  
+}
+
+.FSHeight {
+    height: 35rem;
+}
+
+#MainContainerID {
+    margin-top: 6rem;
+}
+
+.FS {
+    border: #8a8888 2px solid;
+    height: 34rem;
+    width: 24rem;
+    margin: auto;
+    border-radius: 0.9rem;
+    background-color: black;
+}
+
+#LogoText {
+    margin-top: -0.8rem;
+    margin-left: 0.5rem;
+    font-family: 'Alatsi', sans-serif;
+    color: white;
+    font-weight: bold;
+    letter-spacing: 0.1rem;
+    font-size: 3rem;
+}
+
+.FPart1Height {
+    height: 4.5rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+}
+
+.FPart2Height {
+    height: 26rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+}
+
+.FPart3Height {
+    height: 3.5rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    padding-left: 1rem;
+    padding-right: 2rem;
+}
+
+.BackgroundImage {
+    background-image: url(Images/ImageI.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#textHead span {
+    font-size: 12px;
+    font-family: 'Open Sans', sans-serif;
+    height: 3.8rem;
+    position: absolute;
+    width: 24rem;
+    left: 0;
+    top: 0;
+    margin-top: 7rem;
+    transform-origin: bottom center;
+    text-transform: uppercase;
+    color: #8a8888;
+    font-weight: 600;
+}
+
+#textHead {
+    letter-spacing: 3px;
+}
+
+#MainText {
+    color: #8a8888;
+    font-size: 8px;
+    font-family: 'Open Sans', sans-serif;
+    margin-top: 18rem;
+    border-bottom: 1px #8a8888 solid;
+    padding-bottom: 1.5rem;
+}
+
+#BottomMenu {
+    list-style: none;
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 11px;
+    font-weight: bold;
+    justify-content: center;
+    
+}
+
+#BottomMenu li {
+    margin-right: 1.5rem;
+}
+
+#BottomMenu li:hover {
+    cursor: pointer;
+}
+
+.SPart1Height {
+    height: 4.5rem;
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+    
+}
+
+.SPart2Height {
+    height: 18.5rem;
+}
+
+.SPart3Height {
+    height: 4.5rem;
+}
+
+.SPart4Height {
+    height: 6.2rem;
+}
+
+#TopMenu {
+    list-style: none;
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 9px;
+    font-weight: bold;
+    justify-content: center;
+    
+}
+
+#TopMenu li {
+    margin-right: 1.5rem;
+}
+
+#TopMenu li:hover {
+    cursor: pointer;
+}
+
+#FirstS {
+   margin-left: -1rem;
+   margin-top: -0.25rem;
+}
+
+.AnimationBackground {
+    background-image: url(Images/MotoAnimation.gif);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.SpeedItems {
+    width: 9rem;
+    height: 4.5rem;
+    
+}
+
+.verticalP {
+    writing-mode: vertical-lr;
+    color:  #2e2e31;
+    font-size: 10px;
+    font-family: 'Open Sans', sans-serif;
+    margin-top: 0.1rem;
+
+}
+
+.HorizontalTopP {
+    color:  #8a8888;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 8px;
+}
+
+.MiddleSpan {
+    font-size: 22px;
+    font-weight: bold;
+    color: white;
+    padding-top: 0.1rem;
+    padding-bottom: 0.1rem;
+}
+
+
+.Wrapper {
+    max-width: 24rem;
+    max-height: 4.5rem;
+    display: flex;
+    overflow: auto;
+}
+
+.Wrapper::-webkit-scrollbar {
+    width: 0px;
+    
+}
+
+
+.Wrapper .SpeedItems {
+   
+    
+    
+    text-align: center;
+
+}
+
+.halfImageBg {
+    width: 7rem;
+    background-image: url(Images/montblanc_motorcycle_10.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    box-shadow: inset 0 0 5px 5px black;
+}
+
+.LastParagraph {
+    width: 17rem;
+    color: #8a8888;
+    font-size: 8px;
+    font-family: 'Open Sans', sans-serif;
+    padding-left: 0.5rem;
+    padding-top: 0.5rem;
+    padding-right: 0.5rem;
+    padding-bottom: 0.5rem;
+    
+}
