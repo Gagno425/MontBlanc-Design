@@ -5,7 +5,7 @@ body {
 
 
 .Grid {
-  
+  border: 1px solid red;
 }
 
 .FSHeight {
@@ -19,7 +19,7 @@ body {
 .FS {
     border: #8a8888 2px solid;
     height: 34rem;
-    width: 24rem;
+   
     margin: auto;
     border-radius: 0.9rem;
     background-color: black;
